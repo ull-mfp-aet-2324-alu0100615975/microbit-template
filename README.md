@@ -1,3 +1,10 @@
+## Entregas de la tarea
+
+* [Organización Airam alu0100615975](https://github.com/ull-mfp-aet-2324-alu0100615975)
+* [Classroom Airam ULL-MFP-AET-2324](https://classroom.github.com/classrooms/149101458-ull-mfp-aet-2324-alu0100615975)
+* [Tarea Microbit](https://classroom.github.com/classrooms/149101458-ull-mfp-aet-2324-alu0100615975/assignments/pr-ctica-microbit-1)
+* [Roster para las tareas](https://classroom.github.com/classrooms/149101458-ull-mfp-aet-2324-alu0100615975/roster)
+
 
 > Open this page at <https://ull-mfp-aet.github.io/microbit-template/>
 
