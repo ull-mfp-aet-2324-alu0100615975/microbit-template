@@ -1,24 +1,20 @@
 
-> Open this page at [https://crguezl.github.io/dice/](https://crguezl.github.io/dice/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/crguezl/dice** and import
+> Open this page at <https://ull-mfp-aet.github.io/microbit-template/>
 
 ## Edit this project
 
 To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/crguezl/dice** and click import
+* click on **Import URL** then click on **Import URL**
+* paste **https://github.com/ULL-MFP-AET/microbit-alu-XXXX/** and click import
 
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
+<script src="https://makecode.com/gh-pages-embed.js">
+</script>
+<script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");
+</script>
